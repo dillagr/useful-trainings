@@ -120,6 +120,7 @@ Useful links for online training courses. These links will be updated as time pe
 
 # **_SQL Databases_**
 * [SQL Masterclass: SQL for Data Analytics](http://bit.ly/2xbA12K)
+* [The Complete SQL Bootcamp for the Manipulation and Analysis of Data](https://bit.ly/3cbF0j6) :star:
 
 ### MySQL
 * [Complete SQL Bootcamp with MySQL, PHP & Python](http://bit.ly/31xDl3G)
