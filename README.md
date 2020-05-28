@@ -40,6 +40,8 @@ Useful links for online training courses. These links will be updated as time pe
 * [Data Manipulation in Python: A Pandas Crash Course](https://bit.ly/2S6EmMs)
 
 ### Machine Learning <a name="machine-learning"></a>
+* [The Modern Python 3 Bootcamp | Learn with 200 Unique Exercises](https://bit.ly/2M8sHJw)
+* [The Python Bible™ | Everything You Need to Program in Python](https://bit.ly/2ZJngc4)
 * [Python A-Z: Python for Data Science](https://bit.ly/PyAZDataScience) :star:
 * [Python for Data Science and Machine Learning Bootcamp](https://bit.ly/PyDataSciML) :star:
 * [Machine Learning A-Z: Hands-On with Python & R](https://bit.ly/PyMLAtoZ)
@@ -55,6 +57,9 @@ Useful links for online training courses. These links will be updated as time pe
 * [Practical Machine Learning by Example in Python](https://bit.ly/2VSJxR6) :star:
 * [Machine Learning in Python (Data Science and Deep Learning)](https://bit.ly/2YNCfBl)
 * [Learn BERT - most powerful NLP algorithm by Google](https://bit.ly/2WFoK46) :star:
+* [Feature Engineering for Machine Learning](https://bit.ly/2zsY0MF)
+* [Feature Selection for Machine Learning](https://bit.ly/3ccd2U2)
+
 
 ### Artificial Intelligence <a name="artificial-intelligence"></a>
 * [Artificial Intelligence with Python for Beginners](http://bit.ly/35kALON)
