@@ -58,7 +58,6 @@ Useful links for online training courses. These links will be updated as time pe
 * [Feature Engineering for Machine Learning](https://bit.ly/2zsY0MF)
 * [Feature Selection for Machine Learning](https://bit.ly/3ccd2U2)
 
-
 ### Artificial Intelligence
 * [Artificial Intelligence with Python for Beginners](http://bit.ly/35kALON)
 * [Artificial Intelligence and Predictive Analysis using Python](http://bit.ly/2ZXBFyj)
@@ -71,6 +70,8 @@ Useful links for online training courses. These links will be updated as time pe
 * [PyTorch: Deep Learning and Artificial Intelligence](https://bit.ly/2xMPGpZ) :star:
 * [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://bit.ly/3b8tvIu) :star:
 * [Deep Learning Computer Vision CNN, OpenCV, YOLO, SSD & GANs](https://bit.ly/2W784np)
+* [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://bit.ly/3gAhYWb) :star:
+* [Deep Reinforcement Learning 2.0](https://bit.ly/2XTKBp9) :star:
 
 ### Big Data
 * [Spark and Python for Big Data Using PySpark](http://bit.ly/35ddKwQ) :star:
@@ -82,6 +83,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [The Python Mega Course: Build 10 Real World Applications](https://bit.ly/2RIWPyx) :star:
 * [Machine Learning Practical: 6 Real-World Applications](https://bit.ly/2ZKZOuW)
 * [Machine Learning Practical Workout | 8 Real-World Projects](https://bit.ly/2yIzCWN)
+* [Data Science for Business | 6 Real-world Case Studies](https://bit.ly/2zyNK5A) :star:
 
 
 &nbsp;
@@ -107,6 +109,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Top 10 Worst Tableau Designer Mistakes and How to Avoid Them](https://bit.ly/3buJoty)
 * [Master Course in Tableau 10 & 2019 for Business Intelligence](https://bit.ly/3dzVzH2)
 * [Complete Tableau 2020 Training for Absolute Beginners](https://bit.ly/2UAqAlE)
+* [The Complete Tableau Bootcamp for Data Visualization](https://bit.ly/2zHlSMn) :star:
 
 ### MatplotLib
 * [Matplotlib Tutorial](http://bit.ly/2GZRhtC)
