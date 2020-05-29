@@ -81,6 +81,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [TensorFlow 2.0 Practical Advanced](https://bit.ly/2MaDX8o) :star:
 * [The Python Mega Course: Build 10 Real World Applications](https://bit.ly/2RIWPyx) :star:
 * [Machine Learning Practical: 6 Real-World Applications](https://bit.ly/2ZKZOuW)
+* [Machine Learning Practical Workout | 8 Real-World Projects](https://bit.ly/2yIzCWN)
 
 
 &nbsp;
