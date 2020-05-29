@@ -28,6 +28,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Python for Statistical Analysis](https://bit.ly/2XpC8eo) :star:
 * [The Python Mega Course: Build 10 Real World Applications](https://bit.ly/2RIWPyx) :star:
 * [Python Programming Beginners Tutorial: Python 3 Programming](https://bit.ly/2RUsRHY)
+* [Python for Everybody: Five Domain Specialization](https://bit.ly/3gyXJZa)
 
 ### Numpy/Pandas (Essentials)
 * [NumPy for Beginners in Data Science](https://bit.ly/3eUl0UL)
