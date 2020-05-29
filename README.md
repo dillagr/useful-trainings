@@ -26,7 +26,6 @@ Useful links for online training courses. These links will be updated as time pe
 * [The Complete Python Programmer Bootcamp 2020](http://bit.ly/3bdmFTf)
 * [Programming with Python : HandsOn Introduction for Beginners](https://bit.ly/3dGFfVe)
 * [Python for Statistical Analysis](https://bit.ly/2XpC8eo) :star:
-* [The Python Mega Course: Build 10 Real World Applications](https://bit.ly/2RIWPyx) :star:
 * [Python Programming Beginners Tutorial: Python 3 Programming](https://bit.ly/2RUsRHY)
 * [Python for Everybody: Five Domain Specialization](https://bit.ly/3gyXJZa)
 
@@ -53,9 +52,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [The Data Science Course 2020: Complete Data Science Bootcamp](http://bit.ly/38aH2Pi) :star:
 * [Introduction to Machine Learning & Deep Learning in Python](http://bit.ly/376zIma) :star:
 * [Complete Machine Learning And Data Science: Zero To Mastery](http://bit.ly/39pqqn6) :star:
-* [Practical Machine Learning by Example in Python](https://bit.ly/2VSJxR6) :star:
 * [Machine Learning in Python (Data Science and Deep Learning)](https://bit.ly/2YNCfBl)
-* [Practical Machine Learning by Example in Python](https://bit.ly/2VSJxR6) :star:
 * [Machine Learning in Python (Data Science and Deep Learning)](https://bit.ly/2YNCfBl)
 * [Learn BERT - most powerful NLP algorithm by Google](https://bit.ly/2WFoK46) :star:
 * [Feature Engineering for Machine Learning](https://bit.ly/2zsY0MF)
@@ -77,6 +74,14 @@ Useful links for online training courses. These links will be updated as time pe
 
 ### Big Data <a name="big-data"></a>
 * [Spark and Python for Big Data Using PySpark](http://bit.ly/35ddKwQ) :star:
+
+### Python Practical Applications
+* [Practical Machine Learning by Example in Python](https://bit.ly/2VSJxR6) :star:
+* [Machine Learning in TensorFlow: Learn with 10 Unique ML Projects](https://bit.ly/2XGiNEn)
+* [TensorFlow 2.0 Practical Advanced](https://bit.ly/2MaDX8o) :star:
+* [The Python Mega Course: Build 10 Real World Applications](https://bit.ly/2RIWPyx) :star:
+* [Machine Learning Practical: 6 Real-World Applications](https://bit.ly/2ZKZOuW)
+
 
 &nbsp;
 
@@ -139,6 +144,7 @@ Useful links for online training courses. These links will be updated as time pe
 
 ### PostgreSQL
 * [The Complete Python & PostgreSQL Developer Course](https://bit.ly/2XhS4xU) :star:
+* [Learn MS SQL Server & PostgreSQL: Database Design A-Z™](https://bit.ly/3emoxdg)
 
 ### SQLite
 * [Intro To SQLite Databases for Python Programming](http://bit.ly/2vbDQUE)
