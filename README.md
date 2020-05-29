@@ -39,7 +39,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [The Complete Pandas Bootcamp 2020: Data Science with Python](https://bit.ly/2xUS3Hi)
 * [Data Manipulation in Python: A Pandas Crash Course](https://bit.ly/2S6EmMs)
 
-### Machine Learning <a name="machine-learning"></a>
+### Machine Learning
 * [The Modern Python 3 Bootcamp | Learn with 200 Unique Exercises](https://bit.ly/2M8sHJw)
 * [The Python Bible™ | Everything You Need to Program in Python](https://bit.ly/2ZJngc4)
 * [Python A-Z: Python for Data Science](https://bit.ly/PyAZDataScience) :star:
@@ -59,7 +59,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Feature Selection for Machine Learning](https://bit.ly/3ccd2U2)
 
 
-### Artificial Intelligence <a name="artificial-intelligence"></a>
+### Artificial Intelligence
 * [Artificial Intelligence with Python for Beginners](http://bit.ly/35kALON)
 * [Artificial Intelligence and Predictive Analysis using Python](http://bit.ly/2ZXBFyj)
 * [Automated Multiple Face Recognition AI using Python](http://bit.ly/35bmEvx)
@@ -72,7 +72,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Tensorflow 2.0: Deep Learning and Artificial Intelligence](https://bit.ly/3b8tvIu) :star:
 * [Deep Learning Computer Vision CNN, OpenCV, YOLO, SSD & GANs](https://bit.ly/2W784np)
 
-### Big Data <a name="big-data"></a>
+### Big Data
 * [Spark and Python for Big Data Using PySpark](http://bit.ly/35ddKwQ) :star:
 
 ### Python Practical Applications
@@ -91,7 +91,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Statistics for Data Science and Business Analysis](http://bit.ly/373uLL1) :star:
 * [Build Data Visualizations with D3.js & Firebase](https://bit.ly/33KwqoE)
 
-### Power BI <a name="power-bi"></a>
+### Power BI
 * [Power BI Masterclass from Scratch in 60 Minutes](http://bit.ly/301q80L)
 * [Microsoft Power BI - Up & Running With Power BI Desktop](http://bit.ly/39AgNCU) :star:
 * [Microsoft Power BI - Publishing to Power BI Service](http://bit.ly/33rfdAC) :star:
