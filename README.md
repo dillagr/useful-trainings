@@ -84,6 +84,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Machine Learning Practical: 6 Real-World Applications](https://bit.ly/2ZKZOuW)
 * [Machine Learning Practical Workout | 8 Real-World Projects](https://bit.ly/2yIzCWN)
 * [Data Science for Business | 6 Real-world Case Studies](https://bit.ly/2zyNK5A) :star:
+* [The Art of Doing: Code 40 Challenging Python Programs Today!](https://bit.ly/36FD5lr) :star:
 
 
 &nbsp;
