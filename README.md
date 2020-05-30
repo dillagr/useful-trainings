@@ -86,6 +86,10 @@ Useful links for online training courses. These links will be updated as time pe
 * [Data Science for Business | 6 Real-world Case Studies](https://bit.ly/2zyNK5A) :star:
 * [The Art of Doing: Code 40 Challenging Python Programs Today!](https://bit.ly/36FD5lr) :star:
 
+### Web Scraping
+* [Web Scraping 101 with Python3 using REQUESTS, LXML & SPLASH](https://bit.ly/2ZQqf2k) :star:
+* [Advanced Web Scraping with Python using Scrapy & Splash](https://bit.ly/2TMrKej) :star:
+* [Modern Web Scraping with Python using Scrapy Splash Selenium](https://bit.ly/3gBgZoV) :star:
 
 &nbsp;
 
