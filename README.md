@@ -13,7 +13,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Learn to Code with Python 3!](http://bit.ly/36iQgru)
 * [Automate the Boring Stuff with Python Programming](http://bit.ly/2MHPsVv) :star:
 * [The Complete Python BootCamp: Zero to Hero](https://bit.ly/PyBootCamp) :star:
-* [Learn to Code with Python](http://bit.ly/39B5jPA) :star:
+* [Learn to Code with Python](http://bit.ly/39B5jPA) :fire:
 * [30 Days of Python | Unlock Your Python Potential](https://bit.ly/30DofPy)
 * [Python - A to Z Full Course for Beginners](https://bit.ly/PyAtoZNoobs)
 * [Python 3.6 for Total Beginners](https://bit.ly/Py3Noobs)
@@ -33,7 +33,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [NumPy for Beginners in Data Science](https://bit.ly/3eUl0UL)
 * [Deep Learning Prerequisites: The Numpy Stack in Python](https://bit.ly/2xVLnJ5) :star:
 * [Pandas with Python Tutorial](http://bit.ly/2ubGB8b)
-* [Data Analysis with Pandas and Python](https://bit.ly/PyPandas) :star:
+* [Data Analysis with Pandas and Python](https://bit.ly/PyPandas) :fire:
 * [Python 3 Data Science - NumPy, Pandas, and Time Series](http://bit.ly/36bZYMm)
 * [Learn Data Analysis with Python Pandas](http://bit.ly/2OreBVp)
 * [The Complete Pandas Bootcamp 2020: Data Science with Python](https://bit.ly/2xUS3Hi)
@@ -106,6 +106,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Power BI: From Zero to Hero](https://bit.ly/2QFSueV)
 * [Power BI A-Z: Hands-On Power BI Training For Data Science!](https://bit.ly/2JXq38g) :star:
 * [Power BI - Data Analytics Essentials with Power BI](https://bit.ly/2KRP1qe)
+* [The Complete Power BI Practical Course](https://bit.ly/36K3K0J)
 
 ### Tableau
 * [Tableau 10 A-Z: Hands-On Tableau Training For Data Science!](http://bit.ly/Tableau10AtoZ)
@@ -115,6 +116,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Master Course in Tableau 10 & 2019 for Business Intelligence](https://bit.ly/3dzVzH2)
 * [Complete Tableau 2020 Training for Absolute Beginners](https://bit.ly/2UAqAlE)
 * [The Complete Tableau Bootcamp for Data Visualization](https://bit.ly/2zHlSMn) :star:
+* [Integrating Python, SQL, and Tableau Integration Course](https://bit.ly/2Xi8AiB) :fire:
 
 ### MatplotLib
 * [Matplotlib Tutorial](http://bit.ly/2GZRhtC)
