@@ -125,6 +125,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Microsoft Excel - Excel Power Query, Power Pivot & DAX](http://bit.ly/3a1sL8s) :star:
 * [Microsoft Excel: Data Analysis using Excel Pivot Tables](http://bit.ly/2xRWJxr)
 * [Marketing Analytics: Forecasting Models with Excel](http://bit.ly/2xKziG7)
+* [Zero to Hero in Microsoft Excel: Complete Excel Guide](https://bit.ly/3hehHZE) :fire:
 
 &nbsp;
 
