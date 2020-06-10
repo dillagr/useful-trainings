@@ -10,6 +10,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Others/Unclassified](#others-unclassified)
 
 # **_Python_**
+* [Master Math by Coding Python](https://bit.ly/3cizxqI) :fire:
 * [Learn to Code with Python 3!](http://bit.ly/36iQgru)
 * [Automate the Boring Stuff with Python Programming](http://bit.ly/2MHPsVv) :star:
 * [The Complete Python BootCamp: Zero to Hero](https://bit.ly/PyBootCamp) :star:
