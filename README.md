@@ -73,6 +73,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Deep Learning Computer Vision CNN, OpenCV, YOLO, SSD & GANs](https://bit.ly/2W784np)
 * [Complete Tensorflow 2 and Keras Deep Learning Bootcamp](https://bit.ly/3gAhYWb) :star:
 * [Deep Reinforcement Learning 2.0](https://bit.ly/2XTKBp9) :star:
+* [A Complete Guide on TensorFlow 2.0 using Keras API](https://bit.ly/2N0xAF8) :star:
 
 ### Big Data
 * [Spark and Python for Big Data Using PySpark](http://bit.ly/35ddKwQ) :star:
