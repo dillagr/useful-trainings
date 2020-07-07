@@ -190,6 +190,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Complete Linux Course: Become a Linux Professional](http://bit.ly/2KWWva4)
 * [Introduction To Linux High Availability Clustering](http://bit.ly/36Xdumw) :star:
 * [How to Install a Free SSL Certificate using Let's Encrypt](http://bit.ly/37leQYF)
+* [Linux Bash Shell Scripting: Complete Guide (incl. AWK & SED)](https://bit.ly/3gCVSBV)
 
 ### Docker
 * [Docker Masterclass: Learn Docker Ecosystem from Scratch](http://bit.ly/2GRDBAS)
