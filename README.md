@@ -101,6 +101,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [The Business Intelligence Analyst Course 2020](http://bit.ly/2vbFV2U) :star:
 * [Statistics for Data Science and Business Analysis](http://bit.ly/373uLL1) :star:
 * [Build Data Visualizations with D3.js & Firebase](https://bit.ly/33KwqoE)
+* [The Complete Data Visualization Course](https://bit.ly/3hIqYZs) :fire:
 
 ### Power BI
 * [Power BI Masterclass from Scratch in 60 Minutes](http://bit.ly/301q80L)
