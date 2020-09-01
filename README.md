@@ -157,6 +157,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [MySQL for Data Analysis - SQL Database for Beginners](http://bit.ly/2xKRAHi) :star:
 * [Advanced SQL + MySQL for Analytics & Business Intelligence](http://bit.ly/3dc2aHv) :star:
 * [The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert](https://bit.ly/2WSBMws) :star:
+* [SQL Beginner to Guru: MySQL Edition - Master SQL with MySQL](https://bit.ly/3YMBrf2) :fire:
 
 ### PostgreSQL
 * [The Complete Python & PostgreSQL Developer Course](https://bit.ly/2XhS4xU) :star:
