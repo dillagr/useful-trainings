@@ -37,7 +37,6 @@ Useful links for online training courses. These links will be updated as time pe
 * [Pandas with Python Tutorial](http://bit.ly/2ubGB8b)
 * [Data Analysis with Pandas and Python](https://bit.ly/PyPandas) :fire:
 * [Python 3 Data Science - NumPy, Pandas, and Time Series](http://bit.ly/36bZYMm)
-* [Learn Data Analysis with Python Pandas](http://bit.ly/2OreBVp)
 * [The Complete Pandas Bootcamp 2020: Data Science with Python](https://bit.ly/2xUS3Hi)
 * [Data Manipulation in Python: A Pandas Crash Course](https://bit.ly/2S6EmMs)
 
