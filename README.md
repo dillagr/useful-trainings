@@ -59,6 +59,10 @@ Useful links for online training courses. These links will be updated as time pe
 * [Feature Engineering for Machine Learning](https://bit.ly/2zsY0MF)
 * [Feature Selection for Machine Learning](https://bit.ly/3ccd2U2)
 
+### Machine Learning (Cloud)
+* [2020 AWS SageMaker, AI and Machine Learning Specialty Exam](https://bit.ly/321Acea) :fire:
+* [AWS SageMaker Practical for Beginners | Build 6 Projects](https://bit.ly/32YMRxK) :fire:
+
 ### Artificial Intelligence
 * [Artificial Intelligence with Python for Beginners](http://bit.ly/35kALON)
 * [Artificial Intelligence and Predictive Analysis using Python](http://bit.ly/2ZXBFyj)
