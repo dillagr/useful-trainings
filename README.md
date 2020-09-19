@@ -1,3 +1,9 @@
+## _Why did I put this together?_
+Techical trainings (or technology focused trainings) are not taught in school. In school you and I are taught the scientific method of learning. This is not the case when you leave school and go into the industry to apply what you learned. It will take some time to get accustomed to the change of environment.
+
+Why not jumpstart and upskill? This is the primary reason for the existence of this list. Learning is a wonderful experience and the knowledge you gain can on a personal level and likewise on a professional level!
+
+
 ## _Training Resources for Online Learning_
 Useful links for online training courses. These links will be updated as time permits. Some are based in Python and others are non-Python, and may be connected to the Python ecosystem as a whole.
 
