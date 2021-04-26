@@ -192,6 +192,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Go Programming by Example (Golang)](https://bit.ly/2ZpU2Pi)
 * [Learn How To Code: Google's Go (golang) Programming Language](https://bit.ly/2WRfsTE)
 * [Go (Golang): The Complete Bootcamp](https://bit.ly/2znI126)
+* [Go: The Complete Developer's Guide (Golang)](https://bit.ly/3tUhOPP)
 
 &nbsp;
 
