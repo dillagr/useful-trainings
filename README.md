@@ -37,6 +37,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Python for Everybody: Five Domain Specialization](https://bit.ly/3gyXJZa)
 * [Complete Python Developer: Zero to Mastery](https://bit.ly/2ZC273w) :fire:
 * [The Data Analyst Course: Complete Data Analyst Bootcmp](https://bit.ly/36hdqR2) :fire:
+* [The Python Bible™ | Everything You Need to Program in Python](https://bit.ly/2ZJngc4)
 
 ### Numpy/Pandas (Essentials)
 * [NumPy for Beginners in Data Science](https://bit.ly/3eUl0UL)
@@ -49,22 +50,24 @@ Useful links for online training courses. These links will be updated as time pe
 
 ### Machine Learning
 * [The Modern Python 3 Bootcamp | Learn with 200 Unique Exercises](https://bit.ly/2M8sHJw)
-* [The Python Bible™ | Everything You Need to Program in Python](https://bit.ly/2ZJngc4)
 * [Python A-Z: Python for Data Science](https://bit.ly/PyAZDataScience) :star:
 * [Python for Data Science and Machine Learning Bootcamp](https://bit.ly/PyDataSciML) :star:
 * [Machine Learning A-Z: Hands-On with Python & R](https://bit.ly/PyMLAtoZ)
 * [Decision Trees, Random Forests, AdaBoost & XGBoost in Python](http://bit.ly/2sB4yVW)
 * [Machine Learning and Data Science Hands-on with Python and R](http://bit.ly/2QC7rOf)
-* [NLP - Natural Language Processing with Python](http://bit.ly/2QHqh6y)
 * [Advanced Machine Learning & Data Analysis Projects Bootcamp](http://bit.ly/3b1Kr4y) :star:
 * [The Data Science Course 2020: Complete Data Science Bootcamp](http://bit.ly/38aH2Pi) :star:
 * [Introduction to Machine Learning & Deep Learning in Python](http://bit.ly/376zIma) :star:
 * [Complete Machine Learning And Data Science: Zero To Mastery](http://bit.ly/39pqqn6) :star:
 * [Machine Learning in Python (Data Science and Deep Learning)](https://bit.ly/2YNCfBl)
 * [Machine Learning in Python (Data Science and Deep Learning)](https://bit.ly/2YNCfBl)
-* [Learn BERT - most powerful NLP algorithm by Google](https://bit.ly/2WFoK46) :star:
 * [Feature Engineering for Machine Learning](https://bit.ly/2zsY0MF)
 * [Feature Selection for Machine Learning](https://bit.ly/3ccd2U2)
+
+### Machine Learning (NLP)
+* [NLP - Natural Language Processing with Python](http://bit.ly/2QHqh6y)
+* [Learn BERT - most powerful NLP algorithm by Google](https://bit.ly/2WFoK46) :star:
+* [Deploy ML Model with BERT, DistilBERT, FastText NLP Models in Production](https://bit.ly/2RAp9Wu) :star:
 
 ### Machine Learning (Cloud)
 * [2020 AWS SageMaker, AI and Machine Learning Specialty Exam](https://bit.ly/321Acea) :fire:
