@@ -222,6 +222,9 @@ Useful links for online training courses. These links will be updated as time pe
 * [Apache Kafka Series - Confluent Schema Registry & REST Proxy](http://bit.ly/2x5hWTZ)
 * [Apache Kafka Series - Kafka Connect Hands-on Learning](http://bit.ly/2IQjlR9) :star:
 
+### Elastic Search
+* [Elasticsearch 7 and the Elastic Stack: In Depth and Hands On](https://bit.ly/2YO1FRh) :fire:
+* [Complete Guide to Elasticsearch](https://bit.ly/3Eg3kj3) :star:
 
 &nbsp;
 
