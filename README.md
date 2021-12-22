@@ -38,6 +38,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Complete Python Developer: Zero to Mastery](https://bit.ly/2ZC273w) :fire:
 * [The Data Analyst Course: Complete Data Analyst Bootcmp](https://bit.ly/36hdqR2) :fire:
 * [The Python Bible™ | Everything You Need to Program in Python](https://bit.ly/2ZJngc4)
+* [Mastering 4 Critical Skills in Python](https://bit.ly/3mqKzBT) :fire:
 
 ### Numpy/Pandas (Essentials)
 * [NumPy for Beginners in Data Science](https://bit.ly/3eUl0UL)
