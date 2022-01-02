@@ -197,7 +197,7 @@ Useful links for online training courses. These links will be updated as time pe
 * [Learn How To Code: Google's Go (golang) Programming Language](https://bit.ly/2WRfsTE)
 * [Go (Golang): The Complete Bootcamp](https://bit.ly/2znI126)
 * [Go: The Complete Developer's Guide (Golang)](https://bit.ly/3tUhOPP)
-* [Mastering Multithreading in GoLang](https://bit.ly/3mQkCvP)
+* [Mastering Multithreading Programming in Go (GoLang)](https://bit.ly/3mQkCvP)
 
 &nbsp;
 
